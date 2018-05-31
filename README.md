@@ -1,1 +1,1 @@
-# wireframe-hw
+This repository doesn't have the correct name because there was an issue with the original repository. Instead of creating the file 'index.html' it created a series of nested folders, all named 'index.html'. I tried to delete it, but since there were thousands of nested folders it wouldn't delete. If you know how to delete this, please let me know. I don't trust myself to do any deletion in the terminal, which is what a lot of Stack Overflow recommended. 
